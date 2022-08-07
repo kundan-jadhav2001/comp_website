@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #000;
+}
+
+nav{
+    margin: 2px;
+    padding: 2px 2px 2px 2px;
+    text-align: right;
+}
+
+.home, .faculty, .activites, .dropdown{
+    margin-left: 15px;
+}
